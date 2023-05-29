@@ -104,7 +104,7 @@
                       (0, i.jsx)("p", {
                         className: "main__description",
                         children:
-                          "Experience the new ERC6551 NFT standard, and join the new era in ownership of digital assets. The world needs bold decision-makers. Are you one of them?",
+                          "Experience the new ERC6551 NFT standard, and join the new era in ownership and digital identity.. The world needs bold decision-makers. Are you one of them?",
                       }),
                       (0, i.jsx)(o.Z, {}),
                     ],
@@ -141,7 +141,7 @@
                 (0, i.jsx)("meta", {
                   name: "description",
                   content:
-                    "Experience the new ERC6551 NFT standard, and join the new era in ownership of digital assets. The world needs bold decision-makers. Are you one of them?",
+                    "Experience the new ERC6551 NFT standard, and join the new era in ownership and digital identity.. The world needs bold decision-makers. Are you one of them?",
                 }),
                 (0, i.jsx)("meta", {
                   property: "og:image",
